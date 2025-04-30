@@ -33,7 +33,7 @@ void main() {
   print(telefones.values);
   print(telefones.entries);
 
-  var times = {'Flamengo', 'Vasco', 'Botafogo', 'Fluminense'};
+  Set times = {'Flamengo', 'Vasco', 'Botafogo', 'Fluminense'};
   print(times is Set);
   print(times);
   print(times.length);
