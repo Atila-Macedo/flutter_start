@@ -7,7 +7,7 @@
 
 ## 📝 Conteúdo Programático
 
-- [Mapa Mental](https://www.mindmeister.com/app/map/3677947493)
+- [Mapa Mental do Curso](https://www.mindmeister.com/app/map/3677947493)
 
 | 🔢 **Módulo** | 📋 **Tópicos** |
 |:---|:---|
@@ -19,7 +19,7 @@
 ## 🔧 Como Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/flutter-start.git
+git clone https://github.com/ClaudioMarzo/flutter_start.git
 cd flutter-start
 ```
 
