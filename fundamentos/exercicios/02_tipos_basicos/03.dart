@@ -1,6 +1,7 @@
 // 3. Crie um Set<String> com os elementos "maçã" , "banana" , "maçã" e "laranja" . Imprima o Set e explique o resultado em comentário.
 
 void main() {
+  // ignore: equal_elements_in_set
   Set<String> frutas = {"maçã", "banana", "maçã", "laranja"}; // Declara um conjunto de strings com elementos duplicados
   
   print(frutas); // Imprime o conjunto: {maçã, banana, laranja}
