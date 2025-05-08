@@ -1,30 +1,35 @@
-# 🚀 Flutter Start - Primeiros passos com Flutter
+# 🚀 Flutter Start — Primeiros Passos com Flutter
 
-|        📚 **Professor**        |               🏫 **Centro**              |   ⏳ **Duração**   |
-| :----------------------------: | :--------------------------------------: | :---------------: |
+> 📌 *Este repositório é mantido por mim, Átila Macêdo, aluno do curso "Flutter Start", ministrado pelo professor Cláudio Marzo. Aqui você encontrará meus aprendizados, práticas e evolução ao longo do curso.*
+
+---
+
+| 👨‍🏫 **Professor** | 🏫 **Instituição** | ⏳ **Duração do Curso** |
+| :---------------- | :----------------- | :---------------------: |
 | Cláudio Marzo Santarem Santana | Instituto de Educação e Tecnologia Maués | 2 meses e 14 dias |
 
+---
 
-## 📝 Conteúdo Programático
+## 🎯 Objetivo do Repositório
 
-- [Mapa Mental do Curso](https://www.mindmeister.com/app/map/3677947493)
+Este repositório serve como um diário de aprendizado e prática dos conhecimentos adquiridos no curso **Flutter Start**. Meu objetivo é compartilhar projetos, anotações, e demonstrar a evolução no uso de **Dart** e **Flutter**.
+
+---
+
+## 🧠 Mapa Mental do Curso
+
+🗺️ Acompanhe a estrutura do curso através do [Mapa Mental Interativo](https://www.mindmeister.com/app/map/3677947493).
+
+---
+
+## 📘 Conteúdo Programático
 
 | 🔢 **Módulo** | 📋 **Tópicos** |
-|:---|:---|
-| **1. Introdução a Dart** | • Fundamentos<br>• Estrutura de Controle<br>• Funções<br>• Orientação a Objetos |
-| **2. Introdução ao Flutter** | • Fundamentos<br>• Primeiro App<br>• Segundo App |
-| **3. Projeto Final** | • Desenvolvimento em dupla<br>• Entrega e apresentação |
+|:-------------|:--------------|
+| **1. Introdução a Dart** | • Fundamentos da linguagem<br>• Estruturas de Controle<br>• Funções e Métodos<br>• Programação Orientada a Objetos |
+| **2. Introdução ao Flutter** | • Fundamentos da plataforma<br>• Criação do primeiro App<br>• Desenvolvimento do segundo App |
+| **3. Projeto Final** | • Projeto em dupla<br>• Entrega e Apresentação final |
 
-
-## 🔧 Como Clonar o Repositório
-
-```bash
-git clone https://github.com/ClaudioMarzo/flutter_start.git
-cd flutter-start
-```
-
-
-
-## 📬 Contato
-
-- ✉️ **Linkedin:** [Cláudio Marzo](https://www.linkedin.com/in/claudio-marzo-santana/)
+---
+👨‍🎓 Sobre Mim
+Sou aluno do curso Flutter Start e iniciante no desenvolvimento com Flutter. Estou aprendendo a criar aplicações modernas e funcionais, tanto para Android quanto iOS. Todo o conteúdo neste repositório representa minha jornada de estudos, erros, acertos e conquistas.
