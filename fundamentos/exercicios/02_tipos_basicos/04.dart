@@ -23,7 +23,7 @@ void main(){
   print(cursos["Matematica"]![0]); // Acessa o primeiro aluno do curso de Matematica
   print(cursos["Historia"]![1]); // Acessa o segundo aluno do curso de Historia
   print(cursos["Ciencias"]![2]); // Acessa o terceiro aluno do curso de Ciencias
-  print(cursos["Matematica"]![0]!); // Acessa o primeiro aluno do curso de Matematica (com operador de negação nula)
+  print(cursos["Matematica"]![0]); // Acessa o primeiro aluno do curso de Matematica (com operador de negação nula)
  // print(cursos["Geografia"]![0]!); // Acessa o primeiro aluno do curso de Geografia (não existe, retorna null)
   // Algumas operações adicionais:
   cursos["Matematica"]!.add("Judy"); // Adiciona "Judy" à lista de alunos do curso de Matematica
