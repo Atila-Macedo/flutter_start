@@ -1,6 +1,6 @@
 # 🚀 Flutter Start — Primeiros Passos com Flutter
 
-> 📌 *Este repositório é mantido por mim, Átila Macêdo, aluno do curso "Flutter Start", ministrado pelo professor Cláudio Marzo. Aqui você encontrará meus aprendizados, práticas e evolução ao longo do curso.*
+> 📌 *Este repositório é mantido por mim, Átila Mateu, aluno do curso "Flutter Start", ministrado pelo professor Cláudio Marzo. Aqui você encontrará meus aprendizados, práticas e evolução ao longo do curso.*
 
 ---
 
@@ -15,10 +15,8 @@
 Este repositório serve como um diário de aprendizado e prática dos conhecimentos adquiridos no curso **Flutter Start**. Meu objetivo é compartilhar projetos, anotações, e demonstrar a evolução no uso de **Dart** e **Flutter**.
 
 ---
-
-## 🧠 Mapa Mental do Curso
-
-🗺️ Acompanhe a estrutura do curso através do [Mapa Mental Interativo](https://www.mindmeister.com/app/map/3677947493).
+👨‍🎓 Sobre Mim
+Sou aluno do curso Flutter Start e iniciante no desenvolvimento com Flutter. Estou aprendendo a criar aplicações modernas e funcionais, tanto para Android quanto iOS. Todo o conteúdo neste repositório representa minha jornada de estudos, erros, acertos e conquistas.
 
 ---
 
@@ -31,5 +29,3 @@ Este repositório serve como um diário de aprendizado e prática dos conhecimen
 | **3. Projeto Final** | • Projeto em dupla<br>• Entrega e Apresentação final |
 
 ---
-👨‍🎓 Sobre Mim
-Sou aluno do curso Flutter Start e iniciante no desenvolvimento com Flutter. Estou aprendendo a criar aplicações modernas e funcionais, tanto para Android quanto iOS. Todo o conteúdo neste repositório representa minha jornada de estudos, erros, acertos e conquistas.
