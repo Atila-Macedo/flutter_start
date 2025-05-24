@@ -9,4 +9,5 @@ void main() {
   }; // Declara um mapa com três pares de nome e idade
 
   print(idades["Carlos"]); // Acessa o valor associado à chave "Carlos" e imprime: 40
+  print(idades.entries); // Imprime todos os pares chave-valor do mapa  
 }
