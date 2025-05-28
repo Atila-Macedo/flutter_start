@@ -1,5 +1,4 @@
 void main(){
-  List<int> notas = [10, 8, 5, 4, 0];
   Map<String, int> alunosNotas = {
     'João': 10,
     'Maria': 8,

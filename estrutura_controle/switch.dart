@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   int mes = 12;
   print("Mês gerado: $mes");

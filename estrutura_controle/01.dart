@@ -2,6 +2,6 @@
 import 'dart:io';
 void main(){
   stdout.write("Digite sua idade: ");
-  int idade = int.parse(stdin.readLineSync()!);
+  int.parse(stdin.readLineSync()!);
 
 }
